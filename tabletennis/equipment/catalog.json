@@ -28,7 +28,9 @@
       "source_url": "https://takkyu-navi.jp/rubber/detail/944",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": false,
+      "official_source_url": null,
+      "list_price_label": "参照ページ記載価格"
     },
     {
       "id": "rubber-joola-dynaryz-zgx",
@@ -55,7 +57,9 @@
       "source_url": "https://takkyu-navi.jp/rubber/detail/916",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": true,
+      "official_source_url": "https://joola.com/collections/rubbers-premium/products/dynaryz-zgx-table-tennis-rubber",
+      "list_price_label": "参照ページ記載価格"
     },
     {
       "id": "rubber-joola-dynaryz-inferno",
@@ -82,7 +86,9 @@
       "source_url": "https://takkyu-navi.jp/rubber/detail/915",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": true,
+      "official_source_url": "https://joola.co.jp/products/dynaryz-inferno",
+      "list_price_label": "参照ページ記載価格"
     },
     {
       "id": "blade-andro-synteliac-vci-off",
@@ -105,7 +111,9 @@
       "source_url": "https://takkyu-navi.jp/racket/detail/1294",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": false,
+      "official_source_url": null,
+      "list_price_label": "参照ページ記載価格"
     },
     {
       "id": "blade-andro-synteliac-zci-off",
@@ -128,7 +136,9 @@
       "source_url": "https://takkyu-navi.jp/racket/detail/1373",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": false,
+      "official_source_url": null,
+      "list_price_label": "参照ページ記載価格"
     },
     {
       "id": "blade-stiga-inspira-plus",
@@ -152,7 +162,9 @@
       "source_url": "https://takkyu-navi.jp/racket/detail/1444",
       "source_name": "卓球ナビ",
       "source_checked_at": "2026-11-08",
-      "official_verified": false
+      "official_verified": false,
+      "official_source_url": null,
+      "list_price_label": "参照ページ記載価格"
     }
   ]
 }
