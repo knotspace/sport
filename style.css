@@ -351,3 +351,17 @@ input,select,textarea{min-width:0}
  .catalog-controls{grid-template-columns:1fr}
  .product-spec-row{grid-template-columns:1fr;gap:5px}
 }
+
+
+/* Verified ranking status panel */
+.ranking-status{margin:0 0 30px;padding:24px 26px;background:#111a16;border:1px solid #314238;border-radius:4px;color:#e9eee9}
+.ranking-status-top{display:flex;justify-content:space-between;gap:16px;color:#a9b9ad;font:10px ui-monospace,monospace;letter-spacing:.13em;padding-bottom:14px;border-bottom:1px solid #314238}
+.ranking-status-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;padding:19px 0}
+.ranking-status-grid article{padding:15px 17px;background:#18231d;border:1px solid #2c4034}
+.ranking-status-grid article>span{font:9px ui-monospace,monospace;letter-spacing:.13em;color:#a4c4ae}
+.ranking-status-grid h2{font-size:23px;letter-spacing:-.04em;margin:9px 0}
+.ranking-status-grid p,.ranking-status-note{font-size:11px;line-height:1.9;color:#c0c9c1;margin:0}
+.ranking-status-links{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:13px}
+.ranking-status-links a{padding:9px 12px;border:1px solid #3b5143;color:#d9e8dc;font-size:10px}
+.ranking-status-links a:hover{border-color:#9bc8a7;color:#bde1c4}
+@media(max-width:600px){.ranking-status{padding:18px 15px}.ranking-status-top{font-size:8px}.ranking-status-grid{grid-template-columns:1fr;gap:9px;padding:14px 0}.ranking-status-grid h2{font-size:20px}.ranking-status-links{display:grid;grid-template-columns:1fr}.ranking-status-links a{padding:11px}}
