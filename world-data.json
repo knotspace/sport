@@ -1,8 +1,10 @@
 {
-  "updated_at": "2026-11-08T22:00:00+09:00",
+  "updated_at": "2026-11-09T07:30:00+09:00",
   "source_urls": [
     "https://www.ittf.com/2026-events-calendar/",
-    "https://jtta.or.jp/tournament/schedule"
+    "https://jtta.or.jp/tournament/schedule",
+    "https://www.ittf.com/rankings/",
+    "https://jtta.or.jp/tournament/schedule?keyword=2026&season=2026"
   ],
   "events": [
     {
@@ -10,7 +12,7 @@
       "name": "WTT Youth Star Contender Podgorica 2026",
       "location": "Podgorica, Montenegro",
       "category": "WTT",
-      "status": "ongoing",
+      "status": "final-day",
       "url": "https://www.ittf.com/2026-events-calendar/"
     },
     {
@@ -91,5 +93,5 @@
     "men": [],
     "women": []
   },
-  "note": "大会日程はITTF公式2026イベントカレンダーを基に更新。選手エントリーと男女シングルスランキングは公式一次資料で個別照合できていないため未掲載。日程変更の可能性あり。"
+  "note": "大会日程はITTF公式カレンダーおよび日本卓球協会の大会日程を2026-11-09に確認。ランキングページはITTF公式のWeek 45（2026-11-02）が最新表示だが、公式ランキング表の取得に失敗したため、選手別順位は未掲載。"
 }
