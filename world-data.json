@@ -1,15 +1,95 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-08T22:00:00+09:00",
   "source_urls": [
-    "https://www.ittf.com/rankings/",
-    "https://www.worldtabletennis.com/events",
-    "https://www.worldtabletennis.com/"
+    "https://www.ittf.com/2026-events-calendar/",
+    "https://jtta.or.jp/tournament/schedule"
   ],
-  "events": [],
+  "events": [
+    {
+      "date": "2026-11-07–2026-11-09",
+      "name": "WTT Youth Star Contender Podgorica 2026",
+      "location": "Podgorica, Montenegro",
+      "category": "WTT",
+      "status": "ongoing",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-09–2026-11-15",
+      "name": "ITTF-Americas Masters Championships Caracas 2026",
+      "location": "Caracas, Venezuela",
+      "category": "ITTF",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-10–2026-11-15",
+      "name": "WTT Contender Istanbul 2026",
+      "location": "Istanbul, Türkiye",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-11–2026-11-14",
+      "name": "WTT Youth Contender Gaborone 2026",
+      "location": "Gaborone, Botswana",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-14–2026-11-17",
+      "name": "WTT Youth Contender Ballarat 2026",
+      "location": "Ballarat, Australia",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-16–2026-11-21",
+      "name": "WTT Star Contender Muscat 2026",
+      "location": "Muscat, Oman",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-21–2026-11-28",
+      "name": "ITTF World Youth Championships Istanbul 2026",
+      "location": "Istanbul, Türkiye",
+      "category": "ITTF",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-23–2026-11-27",
+      "name": "WTT Feeder Düsseldorf II 2026",
+      "location": "Düsseldorf, Germany",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-28–2026-12-02",
+      "name": "WTT Feeder Gdansk 2026",
+      "location": "Gdansk, Poland",
+      "category": "WTT",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-29–2026-12-06",
+      "name": "ITTF Mixed Team World Cup Chengdu 2026",
+      "location": "Chengdu, China",
+      "category": "ITTF",
+      "status": "upcoming",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    }
+  ],
   "players": [],
   "rankings": {
     "men": [],
     "women": []
   },
-  "note": "掲載情報は公式発表で確認したものだけを記載。未確認項目は空配列のままにする。"
+  "note": "大会日程はITTF公式2026イベントカレンダーを基に更新。選手エントリーと男女シングルスランキングは公式一次資料で個別照合できていないため未掲載。日程変更の可能性あり。"
 }
