@@ -31,3 +31,29 @@
 .learning-callout{margin-top:22px;padding:22px;background:#edf3ed}.learning-callout p{font-size:12px;line-height:2;color:#69756b}
 @media(max-width:800px){.database-panel,.learning-panel{margin:40px 18px 60px;padding:25px 20px}.gear-form{grid-template-columns:1fr 1fr}.motion-grid,.rule-cases,.player-directory{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.gear-form{grid-template-columns:1fr}.compare-tools{align-items:stretch;flex-direction:column}.motion-grid,.rule-cases,.player-directory{grid-template-columns:1fr}}
+
+/* SPORT equipment catalogue */
+.catalog-panel{max-width:1120px;margin:70px auto 40px;padding:48px;background:#fff;border:1px solid #e1e7df}
+.catalog-panel h2{font-size:clamp(30px,4vw,46px);letter-spacing:-.06em;margin:15px 0}
+.catalog-panel>p{font-size:13px;line-height:2;color:#68736a;max-width:850px}
+.catalog-controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:12px;margin:28px 0 18px}
+.catalog-controls label{display:flex;flex-direction:column;gap:7px;font-size:10px;color:#657167}
+.catalog-controls input,.catalog-controls select{min-width:0;border:1px solid #d5ddd4;background:#fff;padding:12px;font:12px var(--font)}
+.catalog-actions,.catalog-compare-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:16px 0;font-size:10px;color:#68736a}
+.catalog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.catalog-card{border:1px solid #e1e7df;padding:20px;background:#fbfcfa;min-width:0}
+.catalog-card-top{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:9px;color:#6e7b70}
+.catalog-check{display:flex;align-items:center;gap:5px;white-space:nowrap}
+.catalog-card h3{font-size:17px;line-height:1.5;margin:14px 0}
+.catalog-card dl{margin:0}
+.catalog-card dl>div{display:grid;grid-template-columns:95px 1fr;gap:8px;padding:8px 0;border-top:1px solid #e9eee8;font-size:10px}
+.catalog-card dt{color:#7b887c}.catalog-card dd{margin:0;color:#29392f;overflow-wrap:anywhere}
+.catalog-status{display:inline-block;margin:12px 0 8px;padding:5px 8px;background:#f1eee4;color:#796a42;font-size:9px}
+.catalog-card>a{display:block;color:#176b50;font-size:10px;margin-top:6px}
+.catalog-compare{margin-top:26px;padding:20px;background:#f2f5f1}
+.catalog-compare-head h3{margin:0;font-size:15px;color:#26372d}
+.catalog-compare-head button{border:0;background:#e0e8e0;padding:9px 13px;font-size:10px;cursor:pointer}
+.catalog-compare-scroll{overflow:auto}
+.catalog-compare .gear-compare-table{min-width:600px}
+@media(max-width:800px){.catalog-panel{margin:40px 18px;padding:25px 20px}.catalog-controls{grid-template-columns:1fr 1fr}.catalog-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.catalog-controls,.catalog-grid{grid-template-columns:1fr}.catalog-actions{align-items:flex-start;flex-direction:column}}
