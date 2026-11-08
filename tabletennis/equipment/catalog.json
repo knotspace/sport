@@ -1,0 +1,158 @@
+{
+  "updated_at": "2026-11-08",
+  "discovery_sources": [
+    "https://takkyu-navi.jp/rubber",
+    "https://takkyu-navi.jp/racket"
+  ],
+  "data_policy": "製品名・仕様項目の発見と整理に卓球ナビを参照。レビュー本文・画像・ランキング順位は転載しない。掲載スペックは参照サイト記載値であり、メーカー公式情報との照合前。未掲載・不明項目はnull。",
+  "products": [
+    {
+      "id": "rubber-stiga-dna-dragon-power-55",
+      "name": "DNAドラゴンパワー 55",
+      "brand": "STIGA",
+      "category": "ラバー",
+      "type": "裏ソフト",
+      "sponge_hardness_deg": 55,
+      "thickness_mm": 2.15,
+      "colors": [
+        "レッド",
+        "ブラック"
+      ],
+      "construction": "微粘着テンション",
+      "country_of_manufacture": "ドイツ",
+      "list_price_jpy": 8500,
+      "product_code": "1712-24",
+      "release": "2024年秋",
+      "weight_g": null,
+      "blade_structure": null,
+      "source_url": "https://takkyu-navi.jp/rubber/detail/944",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    },
+    {
+      "id": "rubber-joola-dynaryz-zgx",
+      "name": "ダイナライズ ZGX",
+      "brand": "JOOLA",
+      "category": "ラバー",
+      "type": "裏ソフト",
+      "sponge_hardness_deg": null,
+      "thickness_options": [
+        "2.0",
+        "MAX"
+      ],
+      "colors": [
+        "赤",
+        "黒"
+      ],
+      "construction": "微粘着×テンション",
+      "country_of_manufacture": "ドイツ",
+      "list_price_jpy": 10810,
+      "product_code": "70487R",
+      "release": "2023年10月下旬",
+      "weight_g": null,
+      "blade_structure": null,
+      "source_url": "https://takkyu-navi.jp/rubber/detail/916",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    },
+    {
+      "id": "rubber-joola-dynaryz-inferno",
+      "name": "ダイナライズ INFERNO（インフェルノ）",
+      "brand": "JOOLA",
+      "category": "ラバー",
+      "type": "裏ソフト",
+      "sponge_hardness_deg": null,
+      "thickness_options": [
+        "2.0",
+        "MAX"
+      ],
+      "colors": [
+        "赤",
+        "黒"
+      ],
+      "construction": "ハイテンション",
+      "country_of_manufacture": "ドイツ",
+      "list_price_jpy": 11500,
+      "product_code": "70464R",
+      "release": "2023年10月下旬",
+      "weight_g": null,
+      "blade_structure": null,
+      "source_url": "https://takkyu-navi.jp/rubber/detail/915",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    },
+    {
+      "id": "blade-andro-synteliac-vci-off",
+      "name": "シンテリアック VCI OFF",
+      "brand": "andro",
+      "category": "ラケット",
+      "type": "シェーク",
+      "grip_options": [
+        "FL",
+        "ST"
+      ],
+      "blade_structure": "木材5枚 + VOLTEMAカーボン2枚（インナー）",
+      "material": "VOLTEMAカーボン",
+      "weight_g": null,
+      "thickness_mm": null,
+      "blade_size_mm": null,
+      "list_price_jpy": 24000,
+      "product_code": "100021031",
+      "release": "2023年3月",
+      "source_url": "https://takkyu-navi.jp/racket/detail/1294",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    },
+    {
+      "id": "blade-andro-synteliac-zci-off",
+      "name": "シンテリアック ZCI OFF",
+      "brand": "andro",
+      "category": "ラケット",
+      "type": "シェーク",
+      "grip_options": [
+        "FL",
+        "ST"
+      ],
+      "blade_structure": "木材5枚 + ZYREEMAカーボン2枚（インナー）",
+      "material": "ZYREEMAカーボン",
+      "weight_g": 85,
+      "thickness_mm": 5.7,
+      "blade_size_mm": "157×150",
+      "list_price_jpy": 27000,
+      "product_code": "FL:100021033002 / ST:100021033001",
+      "release": "2024年3月",
+      "source_url": "https://takkyu-navi.jp/racket/detail/1373",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    },
+    {
+      "id": "blade-stiga-inspira-plus",
+      "name": "インスピーラプラス",
+      "brand": "STIGA",
+      "category": "ラケット",
+      "type": "シェーク・ペン",
+      "grip_options": [
+        "FL",
+        "ST",
+        "反転・異質ペン"
+      ],
+      "blade_structure": "木材5枚 + カーボン2枚（アウター）",
+      "material": "カーボン（STIGA ARC）",
+      "weight_g": 88,
+      "thickness_mm": 5.6,
+      "blade_size_mm": null,
+      "list_price_jpy": 14000,
+      "product_code": "1602-2601-35 / 1602-2601-37 / 1602-2601-65",
+      "release": "2025年春",
+      "source_url": "https://takkyu-navi.jp/racket/detail/1444",
+      "source_name": "卓球ナビ",
+      "source_checked_at": "2026-11-08",
+      "official_verified": false
+    }
+  ]
+}
