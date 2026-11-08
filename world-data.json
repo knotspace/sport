@@ -1,0 +1,15 @@
+{
+  "updated_at": null,
+  "source_urls": [
+    "https://www.ittf.com/rankings/",
+    "https://www.worldtabletennis.com/events",
+    "https://www.worldtabletennis.com/"
+  ],
+  "events": [],
+  "players": [],
+  "rankings": {
+    "men": [],
+    "women": []
+  },
+  "note": "掲載情報は公式発表で確認したものだけを記載。未確認項目は空配列のままにする。"
+}
