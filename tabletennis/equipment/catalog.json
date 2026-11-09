@@ -127,9 +127,9 @@
       ],
       "blade_structure": "木材5枚 + ZYREEMAカーボン2枚（インナー）",
       "material": "ZYREEMAカーボン",
-      "weight_g": 86,
+      "weight_g": null,
       "thickness_mm": 5.9,
-      "blade_size_mm": "157×152",
+      "blade_size_mm": null,
       "list_price_jpy": 29700,
       "product_code": "FL:100021033002 / ST:100021033001",
       "release": "2024年3月",
@@ -138,7 +138,11 @@
       "source_checked_at": "2026-11-09",
       "official_verified": true,
       "official_source_url": "https://www.andro.de/ja/node/762",
-      "list_price_label": "公式掲載税込価格（2026-11-09確認）"
+      "list_price_label": "公式掲載税込価格（2026-11-09確認）",
+      "weight_range_g": [
+        83,
+        89
+      ]
     },
     {
       "id": "blade-stiga-inspira-plus",
