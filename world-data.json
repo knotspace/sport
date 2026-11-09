@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-11-09T07:30:00+09:00",
+  "updated_at": "2026-11-09T16:35:00+09:00",
   "source_urls": [
     "https://www.ittf.com/2026-events-calendar/",
     "https://jtta.or.jp/tournament/schedule",
     "https://www.ittf.com/rankings/",
-    "https://jtta.or.jp/tournament/schedule?keyword=2026&season=2026"
+    "https://jtta.or.jp/tournament/schedule?keyword=2026&season=2026",
+    "https://www.ittf.com/rankings-updates/",
+    "https://www.worldtabletennis.com/events"
   ],
   "events": [
     {
@@ -93,5 +95,5 @@
     "men": [],
     "women": []
   },
-  "note": "大会日程はITTF公式カレンダーおよび日本卓球協会の大会日程を2026-11-09に確認。ランキングページはITTF公式のWeek 45（2026-11-02）が最新表示だが、公式ランキング表の取得に失敗したため、選手別順位は未掲載。"
+  "note": "大会日程はITTF公式2026 Events Calendarを2026-11-09 16:35 JSTに再確認。11月9日開催最終日のWTT Youth Star Contender Podgorica、11月9日開始のITTF-Americas Masters Caracas、11月10日開始のWTT Contender Istanbulなどを掲載。ITTF公式ランキングはWeek 45（2026-11-02）が最新表示で、11月9日時点のWeek 46は未掲載。ランキング個人別表の取得は確認できなかったため、選手別順位・ポイントは推測せず空欄を維持。"
 }
