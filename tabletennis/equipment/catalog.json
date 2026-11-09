@@ -1285,6 +1285,31 @@
       "official_source_url": "https://www.nittaku.com/wp-content/uploads/2026/02/6c9753cbc31cda6f108f9844deca243e.pdf",
       "list_price_label": "メーカー公式資料記載価格（2026年2月版）",
       "official_performance_note": "メーカー公式資料の性能数値：スピード 7.25、スピン 5.75、変化 12.75。表一枚仕様のためスポンジ硬度は該当なし。"
+    },
+    {
+      "id": "blade-andro-synteliac-zco-off-s",
+      "name": "SYNTELIAC ZCO OFF/S",
+      "brand": "andro",
+      "category": "ラケット",
+      "type": "シェーク",
+      "grip_options": [
+        "ST",
+        "FL"
+      ],
+      "blade_structure": "木材5枚 + ZYREEMAカーボン2枚（アウター）",
+      "material": "ZYREEMAカーボン（アウター）",
+      "weight_g": 85,
+      "thickness_mm": 5.7,
+      "blade_size_mm": "157×150",
+      "list_price_jpy": 29700,
+      "product_code": "ST:100021032001 / FL:100021032002",
+      "release": null,
+      "source_url": "https://www.andro.de/ja/synteliac-zco-offsjp",
+      "source_name": "andro公式・SYNTELIAC ZCO OFF/S",
+      "source_checked_at": "2026-11-09",
+      "official_verified": true,
+      "official_source_url": "https://www.andro.de/ja/synteliac-zco-offsjp",
+      "list_price_label": "公式掲載税込価格（2026-11-09確認）"
     }
   ]
 }
