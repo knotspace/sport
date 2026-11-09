@@ -1319,7 +1319,7 @@
       "list_price_label": "公式掲載税込価格（2026-11-09確認）"
     },
     {
-      "id": "rubber-butterfly-03",
+      "id": "rubber-butterfly-01-butterfly",
       "name": "ザイア03",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1342,7 +1342,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-09c",
+      "id": "rubber-butterfly-02-butterfly",
       "name": "ディグニクス09C",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1365,7 +1365,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-80",
+      "id": "rubber-butterfly-03-butterfly",
       "name": "ディグニクス80",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1388,7 +1388,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-05",
+      "id": "rubber-butterfly-04-butterfly",
       "name": "ディグニクス05",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1411,7 +1411,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-64",
+      "id": "rubber-butterfly-05-butterfly",
       "name": "ディグニクス64",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1434,7 +1434,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-05",
+      "id": "rubber-butterfly-06-butterfly",
       "name": "テナジー05",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1457,7 +1457,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-05",
+      "id": "rubber-butterfly-07-butterfly",
       "name": "テナジー05ハード",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1480,7 +1480,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-05fx",
+      "id": "rubber-butterfly-08-butterfly",
       "name": "テナジー05FX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1503,7 +1503,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-80",
+      "id": "rubber-butterfly-09-butterfly",
       "name": "テナジー80",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1526,7 +1526,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-80fx",
+      "id": "rubber-butterfly-10-butterfly",
       "name": "テナジー80FX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1549,7 +1549,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-64",
+      "id": "rubber-butterfly-11-butterfly",
       "name": "テナジー64",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1572,7 +1572,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-64fx",
+      "id": "rubber-butterfly-12-butterfly",
       "name": "テナジー64FX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1595,7 +1595,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-25",
+      "id": "rubber-butterfly-13-butterfly",
       "name": "テナジー25",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1618,7 +1618,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-25fx",
+      "id": "rubber-butterfly-14-butterfly",
       "name": "テナジー25FX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1641,7 +1641,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-19",
+      "id": "rubber-butterfly-15-butterfly",
       "name": "テナジー19",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1664,7 +1664,7 @@
       "list_price_label": "公式一覧はオープン価格"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-16-butterfly",
       "name": "グレイザー",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1687,7 +1687,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-09c",
+      "id": "rubber-butterfly-17-butterfly",
       "name": "グレイザー09C",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1710,7 +1710,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-18-butterfly",
       "name": "ロゼナ",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1733,7 +1733,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-19-butterfly",
       "name": "ラウンデル",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1756,7 +1756,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-20-butterfly",
       "name": "タキネス チョップ",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1779,7 +1779,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-21-butterfly",
       "name": "スレイバー",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1802,7 +1802,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-el",
+      "id": "rubber-butterfly-22-butterfly",
       "name": "スレイバーEL",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1825,7 +1825,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-23-butterfly",
       "name": "フレクストラ",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1848,7 +1848,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-24-butterfly",
       "name": "バグラー",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1871,7 +1871,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-xs",
+      "id": "rubber-butterfly-25-butterfly",
       "name": "インパーシャルXS",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1894,7 +1894,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-xb",
+      "id": "rubber-butterfly-26-butterfly",
       "name": "インパーシャルXB",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1917,7 +1917,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-27-butterfly",
       "name": "チャレンジャー アタック",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1940,7 +1940,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-p-o",
+      "id": "rubber-butterfly-28-butterfly",
       "name": "スピーディーP.O.",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1963,7 +1963,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-s",
+      "id": "rubber-butterfly-29-butterfly",
       "name": "イリウスS",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -1986,7 +1986,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-s-0-5",
+      "id": "rubber-butterfly-30-butterfly",
       "name": "イリウスS 0.5",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2009,7 +2009,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-b",
+      "id": "rubber-butterfly-31-butterfly",
       "name": "イリウスB",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2032,7 +2032,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-b-0-5",
+      "id": "rubber-butterfly-32-butterfly",
       "name": "イリウスB 0.5",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2055,7 +2055,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-3",
+      "id": "rubber-butterfly-33-butterfly",
       "name": "フェイント ロング3",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2078,7 +2078,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-3-0-5",
+      "id": "rubber-butterfly-34-butterfly",
       "name": "フェイント ロング3 0.5",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2101,7 +2101,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-3-ox",
+      "id": "rubber-butterfly-35-butterfly",
       "name": "フェイント ロング3 OX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2124,7 +2124,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-2",
+      "id": "rubber-butterfly-36-butterfly",
       "name": "フェイント ロング2",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2147,7 +2147,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-2-0-5",
+      "id": "rubber-butterfly-37-butterfly",
       "name": "フェイント ロング2 0.5",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2170,7 +2170,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-2-ox",
+      "id": "rubber-butterfly-38-butterfly",
       "name": "フェイント ロング2 OX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2193,7 +2193,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-39-butterfly",
       "name": "フェイント ソフト",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2216,7 +2216,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-ox",
+      "id": "rubber-butterfly-40-butterfly",
       "name": "フェイントOX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2239,7 +2239,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-41-butterfly",
       "name": "ラージストーム スピン",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2262,7 +2262,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-44dx",
+      "id": "rubber-butterfly-42-butterfly",
       "name": "ラージ44DX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2285,7 +2285,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-",
+      "id": "rubber-butterfly-43-butterfly",
       "name": "スーパーアンチ",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2308,7 +2308,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-butterfly-dx",
+      "id": "rubber-butterfly-44-butterfly",
       "name": "オーソドックスDX",
       "brand": "Butterfly",
       "category": "ラバー",
@@ -2331,7 +2331,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-v-22",
+      "id": "rubber-victas-01-victas",
       "name": "V>22 ダブルエキストラ",
       "brand": "VICTAS",
       "category": "ラバー",
@@ -2354,7 +2354,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-v-15",
+      "id": "rubber-victas-02-victas",
       "name": "V>15 スティッキー",
       "brand": "VICTAS",
       "category": "ラバー",
@@ -2377,7 +2377,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-v-15",
+      "id": "rubber-victas-03-victas",
       "name": "V>15 エキストラ",
       "brand": "VICTAS",
       "category": "ラバー",
@@ -2400,7 +2400,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-v-20",
+      "id": "rubber-victas-04-victas",
       "name": "V>20 ダブルエキストラ",
       "brand": "VICTAS",
       "category": "ラバー",
@@ -2423,7 +2423,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-",
+      "id": "rubber-victas-05-victas",
       "name": "ヴェンタス エキストラ",
       "brand": "VICTAS",
       "category": "ラバー",
@@ -2446,7 +2446,7 @@
       "list_price_label": "公式製品一覧掲載価格（税込）"
     },
     {
-      "id": "rubber-victas-p1v",
+      "id": "rubber-victas-06-victas",
       "name": "カール P1V",
       "brand": "VICTAS",
       "category": "ラバー",
