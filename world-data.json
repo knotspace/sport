@@ -93,7 +93,131 @@
   "players": [],
   "rankings": {
     "men": [],
-    "women": []
+    "women": [],
+    "japan_men": [
+      {
+        "rank": 1,
+        "name": "松島輝空",
+        "points": 7598,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 2,
+        "name": "張本智和",
+        "points": 6963,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 15,
+        "name": "戸上隼輔",
+        "points": 2848,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 20,
+        "name": "篠塚大登",
+        "points": 2020,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 33,
+        "name": "宇田幸矢",
+        "points": 1355,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 45,
+        "name": "吉村真晴",
+        "points": 790,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 62,
+        "name": "吉山僚一",
+        "points": 605,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 65,
+        "name": "川上流星",
+        "points": 560,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 75,
+        "name": "田中佑汰",
+        "points": 450,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      },
+      {
+        "rank": 83,
+        "name": "濵田一輝",
+        "points": 408,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/mens-r"
+      }
+    ],
+    "japan_women": [
+      {
+        "rank": 3,
+        "name": "張本美和",
+        "points": 6889,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 6,
+        "name": "早田ひな",
+        "points": 4770,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 9,
+        "name": "佐藤瞳",
+        "points": 4220,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 10,
+        "name": "大藤沙月",
+        "points": 3710,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 14,
+        "name": "橋本帆乃香",
+        "points": 2924,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 18,
+        "name": "長﨑美柚",
+        "points": 2070,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      },
+      {
+        "rank": 19,
+        "name": "木原美悠",
+        "points": 1955,
+        "country": "JPN",
+        "url": "https://jtta.or.jp/national/womens-r"
+      }
+    ],
+    "note": "2026 Week 46（2026-11-09発表）。rankings.men / rankings.women は世界全体のトップ10として確定できるデータが未取得のため空のまま維持。代わりにJTTA公式ページで確認できる日本選手の世界順位を japan_men / japan_women に分けて記録。日本選手のみの一覧を世界全体ランキングと誤認させない。"
   },
   "note": "2026-11-10 16:40 JSTに公式ITTF 2026 Events Calendarで開催日を再確認。11月7〜9日のWTT Youth Star Contender Podgoricaは終了、11月9〜15日のITTF-Americas Masters Caracasと11月10〜15日のWTT Contender Istanbulは開催期間中として状態を更新。ランキングはITTF公式Week 46（11月9日発表）を確認したが、ITTFランキングページの個別表はこの実行環境で取得できず、JTTAの男子ページは11月9日、女子ページは11月2日発表の日本選手のみ掲載であるため、男女の世界トップ10と混同しないよう rankings 配列は未更新。出場選手も公式エントリー/ドローを確認できていないため推測で追加していない。"
 }
