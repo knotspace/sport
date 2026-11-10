@@ -548,3 +548,18 @@ input,select,textarea{min-width:0}
 .tt-archive-foot{display:flex;justify-content:space-between;gap:20px;margin-top:45px;padding-top:22px;border-top:1px solid #e5e5e5;font-size:11px;color:#777}
 .tt-archive-foot a{color:#222;font-weight:700}
 @media(max-width:680px){.tt-archive-grid{grid-template-columns:1fr;gap:14px}.tt-archive-feature{grid-column:auto;grid-template-columns:1fr}.tt-archive-art{min-height:210px}.tt-archive-copy{padding:23px}.tt-archive-card{min-height:190px;padding:22px}.tt-archive-foot{display:block;line-height:2}}
+
+
+/* Verified Japanese entries from the current ITTF ranking week */
+.tt-japan-ranking-head{display:flex;justify-content:space-between;gap:14px;align-items:center;padding:16px 0 12px;border-bottom:2px solid #202326;font-size:13px}
+.tt-japan-ranking-head span{font-size:10px;color:#888}
+.tt-japan-ranking-table{width:100%;border-bottom:1px solid #ddd}
+.tt-japan-ranking-row{display:grid;grid-template-columns:90px 1fr 100px;gap:12px;align-items:center;padding:13px 14px;border-bottom:1px solid #e7e7e7;font-size:13px}
+.tt-japan-ranking-row:last-child{border-bottom:0}
+.tt-japan-ranking-row strong{font-size:17px;color:#d9433c;font-variant-numeric:tabular-nums}
+.tt-japan-ranking-row>span:last-child{text-align:right;font-variant-numeric:tabular-nums;color:#666}
+.tt-japan-ranking-label{background:#f4f4f2;color:#888;font-size:10px;padding-top:9px;padding-bottom:9px}
+.tt-japan-ranking-label span:first-child{grid-column:1}
+.tt-japan-ranking-source{font-size:10px;color:#777;margin:12px 0 0}
+.tt-japan-ranking-source a{color:#b93430;text-decoration:underline;text-underline-offset:2px}
+@media(max-width:680px){.tt-japan-ranking-head{align-items:flex-start;flex-direction:column;gap:5px}.tt-japan-ranking-row{grid-template-columns:65px 1fr 82px;padding:12px 9px;font-size:12px}.tt-japan-ranking-row strong{font-size:16px}}
