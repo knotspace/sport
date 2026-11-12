@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-13",
   "discovery_sources": [
     "https://takkyu-navi.jp/rubber",
     "https://takkyu-navi.jp/racket",
@@ -158,24 +158,23 @@
       "category": "ラケット",
       "type": "シェーク・ペン",
       "grip_options": [
-        "FL",
-        "ST",
-        "反転・異質ペン"
+        "FLA",
+        "STR",
+        "PEN（中国式ペン）"
       ],
       "blade_structure": "木材5枚 + カーボン2枚（アウター）",
       "material": "カーボン（STIGA ARC）",
-      "weight_g": 88,
+      "weight_g": 87,
       "thickness_mm": 5.6,
       "blade_size_mm": null,
-      "list_price_jpy": 14000,
+      "list_price_jpy": 15400,
       "product_code": "1602-2601-35 / 1602-2601-37 / 1602-2601-65",
-      "release": "2025年春",
-      "source_url": "https://takkyu-navi.jp/racket/detail/1444",
-      "source_name": "卓球ナビ",
-      "source_checked_at": "2026-11-08",
-      "official_verified": false,
-      "official_source_url": null,
-      "list_price_label": "参照ページ記載価格"
+      "release": "2025年4月24日出荷開始",
+      "source_url": "https://stigasports.jp/products/3745",
+      "source_name": "STIGA公式製品ページ",
+      "source_checked_at": "2026-11-13",
+      "official_verified": true,
+      "official_source_url": "https://stigasports.jp/products/3745"
     },
     {
       "id": "rubber-nittaku-moristo-sp-ax",
