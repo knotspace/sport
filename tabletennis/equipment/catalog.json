@@ -2470,7 +2470,7 @@
     {
       "id": "blade-butterfly-viscaria",
       "name": "ビスカリア",
-      "brand": "BUTTERFLY",
+      "brand": "Butterfly",
       "category": "ラケット",
       "type": "シェーク",
       "material": "アリレートカーボン",
@@ -2497,7 +2497,7 @@
     {
       "id": "blade-butterfly-viscaria-super-alc",
       "name": "ビスカリア SUPER ALC",
-      "brand": "BUTTERFLY",
+      "brand": "Butterfly",
       "category": "ラケット",
       "type": "シェーク",
       "material": "スーパーアリレートカーボン",
@@ -2524,7 +2524,7 @@
     {
       "id": "blade-butterfly-timo-boll-zlc",
       "name": "ティモボル ZLC",
-      "brand": "BUTTERFLY",
+      "brand": "Butterfly",
       "category": "ラケット",
       "type": "シェーク",
       "material": "ZLカーボン",
@@ -2551,7 +2551,7 @@
     {
       "id": "blade-nittaku-acoustic",
       "name": "アコースティック",
-      "brand": "NITTAKU",
+      "brand": "Nittaku",
       "category": "ラケット",
       "type": "シェーク",
       "material": "木材",
@@ -2577,7 +2577,7 @@
     {
       "id": "blade-nittaku-acoustic-carbon-inner",
       "name": "アコースティックカーボンインナー",
-      "brand": "NITTAKU",
+      "brand": "Nittaku",
       "category": "ラケット",
       "type": "シェーク",
       "material": "FEカーボン（インナー）",
@@ -2603,7 +2603,7 @@
     {
       "id": "blade-nittaku-acoustic-carbon",
       "name": "アコースティックカーボン",
-      "brand": "NITTAKU",
+      "brand": "Nittaku",
       "category": "ラケット",
       "type": "シェーク",
       "material": "FEカーボン（アウター）",
@@ -2629,7 +2629,7 @@
     {
       "id": "blade-nittaku-acoustic-carbon-lg",
       "name": "アコースティックカーボン（LGタイプ）",
-      "brand": "NITTAKU",
+      "brand": "Nittaku",
       "category": "ラケット",
       "type": "シェーク",
       "material": "FEカーボン（アウター）",
@@ -2655,7 +2655,7 @@
     {
       "id": "blade-nittaku-acoustic-c",
       "name": "アコースティック C",
-      "brand": "NITTAKU",
+      "brand": "Nittaku",
       "category": "ラケット",
       "type": "ペン",
       "material": "木材",
