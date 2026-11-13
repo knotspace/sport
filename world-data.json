@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:40:00+09:00",
+  "updated_at": "2026-11-13T12:39:32+09:00",
   "source_urls": [
     "https://www.ittf.com/2026-events-calendar/",
     "https://jtta.or.jp/tournament/schedule",
@@ -38,7 +38,23 @@
       "name": "WTT Youth Contender Gaborone 2026",
       "location": "Gaborone, Botswana",
       "category": "WTT",
-      "status": "upcoming",
+      "status": "ongoing",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-11–2026-11-15",
+      "name": "ETTU European U13 Championships Nevsehir 2026",
+      "location": "Nevşehir, Türkiye",
+      "category": "ETTU",
+      "status": "ongoing",
+      "url": "https://www.ittf.com/2026-events-calendar/"
+    },
+    {
+      "date": "2026-11-13–2026-11-19",
+      "name": "ITTF World Para Championships Pattaya 2026",
+      "location": "Pattaya, Thailand",
+      "category": "ITTF",
+      "status": "ongoing",
       "url": "https://www.ittf.com/2026-events-calendar/"
     },
     {
@@ -219,5 +235,5 @@
     ],
     "note": "2026 Week 46（2026-11-09発表）。rankings.men / rankings.women は世界全体のトップ10として確定できるデータが未取得のため空のまま維持。代わりにJTTA公式ページで確認できる日本選手の世界順位を japan_men / japan_women に分けて記録。日本選手のみの一覧を世界全体ランキングと誤認させない。"
   },
-  "note": "2026-11-10 16:40 JSTに公式ITTF 2026 Events Calendarで開催日を再確認。11月7〜9日のWTT Youth Star Contender Podgoricaは終了、11月9〜15日のITTF-Americas Masters Caracasと11月10〜15日のWTT Contender Istanbulは開催期間中として状態を更新。ランキングはITTF公式Week 46（11月9日発表）を確認したが、ITTFランキングページの個別表はこの実行環境で取得できず、JTTAの男子ページは11月9日、女子ページは11月2日発表の日本選手のみ掲載であるため、男女の世界トップ10と混同しないよう rankings 配列は未更新。出場選手も公式エントリー/ドローを確認できていないため推測で追加していない。"
+  "note": "2026-11-13 12:39 JSTにITTF公式2026 Events Calendarを再確認。GaboroneとNevsehirを開催中へ修正し、11月13日開始のITTF World Para Championships Pattayaを追加。開催日程・大会名は公式カレンダーに基づく。ランキングはITTF Week 46（2026-11-09）表示を確認したが、世界男女トップ10の個別データを独立確認できていないため未追加。日本選手の順位は既存のJTTA掲載値を維持し、世界全体ランキングと混同させない。"
 }
