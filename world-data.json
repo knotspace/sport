@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:39:32+09:00",
+  "updated_at": "2026-11-15T12:00:00+09:00",
   "source_urls": [
     "https://www.ittf.com/2026-events-calendar/",
     "https://jtta.or.jp/tournament/schedule",
@@ -38,7 +38,7 @@
       "name": "WTT Youth Contender Gaborone 2026",
       "location": "Gaborone, Botswana",
       "category": "WTT",
-      "status": "ongoing",
+      "status": "completed",
       "url": "https://www.ittf.com/2026-events-calendar/"
     },
     {
@@ -62,7 +62,7 @@
       "name": "WTT Youth Contender Ballarat 2026",
       "location": "Ballarat, Australia",
       "category": "WTT",
-      "status": "upcoming",
+      "status": "ongoing",
       "url": "https://www.ittf.com/2026-events-calendar/"
     },
     {
@@ -235,5 +235,5 @@
     ],
     "note": "2026 Week 46（2026-11-09発表）。rankings.men / rankings.women は世界全体のトップ10として確定できるデータが未取得のため空のまま維持。代わりにJTTA公式ページで確認できる日本選手の世界順位を japan_men / japan_women に分けて記録。日本選手のみの一覧を世界全体ランキングと誤認させない。"
   },
-  "note": "2026-11-13 12:39 JSTにITTF公式2026 Events Calendarを再確認。GaboroneとNevsehirを開催中へ修正し、11月13日開始のITTF World Para Championships Pattayaを追加。開催日程・大会名は公式カレンダーに基づく。ランキングはITTF Week 46（2026-11-09）表示を確認したが、世界男女トップ10の個別データを独立確認できていないため未追加。日本選手の順位は既存のJTTA掲載値を維持し、世界全体ランキングと混同させない。"
+  "note": "2026-11-15 12:00 JSTにITTF公式2026 Events Calendarを再確認。11月11〜14日のWTT Youth Contender Gaboroneは終了済み、11月14〜17日のWTT Youth Contender Ballaratは開催中へ更新。11月15日終了予定の大会は当日中のため開催中のまま維持。開催日程は変更される可能性があるため、最新情報は公式カレンダーを参照。ランキングの世界全体トップ10は未取得のまま推測で補っていない。"
 }
