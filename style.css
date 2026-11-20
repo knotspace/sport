@@ -565,3 +565,21 @@ input,select,textarea{min-width:0}
 @media(max-width:680px){.tt-japan-ranking-head{align-items:flex-start;flex-direction:column;gap:5px}.tt-japan-ranking-row{grid-template-columns:65px 1fr 82px;padding:12px 9px;font-size:12px}.tt-japan-ranking-row strong{font-size:16px}}
 
 .tt-article-callout{margin:28px 0;padding:18px 22px;background:#f5f5f4;border-left:4px solid #d9433c}.tt-article-callout b{display:block;margin-bottom:7px;color:#17191b}.tt-article-callout p{margin:0;font-size:14px}
+
+/* Product-detail text contrast: keep small labels readable on the light editorial surfaces. */
+body[data-product] .subsite-crumb,
+body[data-product] .product-detail-hero .eyebrow,
+body[data-product] .product-detail-hero > p,
+body[data-product] .product-detail-meta,
+body[data-product] .database-kicker,
+body[data-product] .product-spec-row dt,
+body[data-product] .product-source-box p,
+body[data-product] .product-detail-side,
+body[data-product] .related-product small,
+body[data-product] footer,
+body[data-product] footer .logo small {
+  color: #526055;
+}
+body[data-product] .subsite-crumb a {
+  color: #176b50;
+}
